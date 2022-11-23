@@ -18,6 +18,24 @@ public class MultiDimArray
             // Printing an empty line for each row of the array
             System.out.println();
         }
+
+        // Printing some empty lines to differentiate the two versions
+        System.out.println();
+        System.out.println();
+
+        // Alternative version using the for each loop
+        for (int[] columns: numbers)
+        {
+            for (int integer: columns)
+            {
+                System.out.print(integer + " ");
+            }
+
+            System.out.println();
+        }
+
+        // Declaring a three-dimensional array of strings
+        String[][][] cube = new String[3][3][3];
     }
 
 }
