@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c44cd2e-1f08-415d-803a-043190f302ad" name="Changes" comment="Working on username">
+    <list default="true" id="4c44cd2e-1f08-415d-803a-043190f302ad" name="Changes" comment="Exercise 3 challenge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Username.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Username.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669123994799</updated>
       <workItem from="1669123996206" duration="7857000" />
+      <workItem from="1669210465880" duration="10963000" />
     </task>
     <task id="LOCAL-00001" summary="Working on username">
       <created>1669134028174</created>
@@ -60,7 +60,70 @@
       <option name="project" value="LOCAL" />
       <updated>1669134028174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Corrected the Username class to work both for the admin username, and for other usernames.">
+      <created>1669212492325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669212492325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learning to use 1D arrays in Java">
+      <created>1669213361535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213361535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Learning to use 2D arrays in Java">
+      <created>1669213576674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213576674</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Learning to use 2D arrays in Java">
+      <created>1669215350516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669215350516</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Working with ArrayLists for the first time, adding and removing elements and checking size">
+      <created>1669218443299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669218443299</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ArrayList work from the image on Dropbox under &quot;challenges&quot;">
+      <created>1669218481303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669218481303</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercise 1 challenge">
+      <created>1669220017891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669220017891</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise 2 challenge">
+      <created>1669221269269</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669221269269</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise 3 challenge">
+      <created>1669222169712</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669222169712</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +142,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working on username" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on username" />
+    <MESSAGE value="Corrected the Username class to work both for the admin username, and for other usernames." />
+    <MESSAGE value="Learning to use 1D arrays in Java" />
+    <MESSAGE value="Learning to use 2D arrays in Java" />
+    <MESSAGE value="Working with ArrayLists for the first time, adding and removing elements and checking size" />
+    <MESSAGE value="ArrayList work from the image on Dropbox under &quot;challenges&quot;" />
+    <MESSAGE value="Exercise 1 challenge" />
+    <MESSAGE value="Exercise 2 challenge" />
+    <MESSAGE value="Exercise 3 challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 challenge" />
   </component>
 </project>
